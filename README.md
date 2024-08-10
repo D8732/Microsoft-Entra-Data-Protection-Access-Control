@@ -53,7 +53,7 @@ Shared Access Signature At Storage Account Level With List and Read Permission
 ![SASStoragelevel](https://github.com/user-attachments/assets/41a202cc-a305-4cd8-aa13-a12e0d6de6f9)
 
 
-Azure Storage Explorer trying to upload Documents, but because only Read and list permissions was given request Failed
+Azure Storage Explorer Signed in with the SAS trying to upload Documents, but because only Read and list permissions were given on the SAS request Failed
 
 ![SASuploadfailed](https://github.com/user-attachments/assets/93f240ac-1498-4e1a-8bd2-965ef344f83f)
 
